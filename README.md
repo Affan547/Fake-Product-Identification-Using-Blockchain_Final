@@ -24,13 +24,13 @@ Password : admin
 ```
 
 ### Technologies & Frameworks :
-[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/SURAJPATIL6088)
-[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/SURAJPATIL6088)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/SURAJPATIL6088)
-[![Web3.js](https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=Web3.js)](https://github.com/SURAJPATIL6088)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SURAJPATIL6088)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/SURAJPATIL6088)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/SURAJPATIL6088)
+[![Solidity](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity)](https://github.com/AFFAN547)
+[![React.js](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]((https://github.com/AFFAN547))
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)]((https://github.com/AFFAN547))
+[![Web3.js](https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=Web3.js)](https://github.com/AFFAN547)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/AFFAN547)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AFFAN547)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/AFFAN547)
 
 ## Abstract : 
 In recent years, blockchain has received increasing attention and numerous applications have emerged from this technology. A renowned blockchain application is the cryptocurrency bitcoin, that has not only been effectively solving the double-spending problem but also it can confirm the legitimacy of transactional records without relying on a centralized system to do so. Therefore, any application using blockchain technology as the base architecture ensures that the contents of its data are tamper-proof. <br>
@@ -66,8 +66,8 @@ Nowadays, small and medium-sized enterprises (SMEs) often have financial burdens
 
 ## Contributors : 
 
-| Project Guide  | Group Leader | Group Member 2 |  Group Member 3 | Group Member 4 |
-| -------------  | ------------ | -------------- | --------------- | -------------- |
-| Ms.Abira Banik | Suraj Patil  | Matlup Ali Mir |  Varad Patil    | Atharva Pimple |
+| Project Guide   | Group Leader | Group Member 2 |  Group Member 3 | Group Member 4 |
+| -------------   | ------------ | -------------- | --------------- | -------------- |
+| Mr.Irshad Anwar | Affan Imam   | Sanjana Singh  |  Tabish Nawab   | Sushil         |
 
 
