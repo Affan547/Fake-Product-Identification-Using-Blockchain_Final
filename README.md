@@ -1,7 +1,7 @@
 # Product Identification Using Blockchain
 
-#### View Live at : [Blockchain-based Fake Product Identification using QR code](https://chain-verify-beta.vercel.app/index.html/)
-
+#### 🚀 View Live Demo  
+[Blockchain-based Fake Product Identification using QR Code](https://chain-verify-beta.vercel.app/index.html)
 
 ### Note : 
 ```
